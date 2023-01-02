@@ -1,0 +1,68 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "singer": "비비",
+      "song": "가면무도회",
+      "prob": 5,
+      "image": "static/images/bibi.jpg",
+      "vote": 25000002
+    },
+    {
+      "id": 2,
+      "singer": "레드벨벳",
+      "song": "Bad Boy",
+      "prob": 3,
+      "image": "static/images/redvelvet.jpg",
+      "vote": 18000000
+    },
+    {
+      "id": 3,
+      "singer": "백예린",
+      "song": "0310",
+      "prob": 3,
+      "image": "static/images/yerinbaek.jpg",
+      "vote": 18500000
+    },
+    {
+      "id": 4,
+      "singer": "f(x)",
+      "song": "Red Light",
+      "prob": 4,
+      "image": "static/images/f(x).jpg",
+      "vote": 19500000
+    },
+    {
+      "id": 5,
+      "singer": "IU",
+      "song": "그 사람",
+      "prob": 4,
+      "image": "static/images/iu.jpg",
+      "vote": 19000000
+    },
+    {
+      "id": 6,
+      "singer": "데이먼스 이어",
+      "song": "Untitled_02",
+      "prob": 2,
+      "image": "static/images/damonsyear.jpg",
+      "vote": 10000000
+    },
+    {
+      "id": 7,
+      "singer": "잔나비",
+      "song": "밤의 공원",
+      "prob": 2,
+      "image": "static/images/jannabi.jpg",
+      "vote": 9000000
+    },
+    {
+      "id": 8,
+      "singer": "NCT127",
+      "song": "Simon Says",
+      "prob": 5,
+      "image": "static/images/nct127.jpg",
+      "vote": 25000001
+    }
+  ]
+}
